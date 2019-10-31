@@ -1,0 +1,15 @@
+Ana Google	interacts with	Simona
+Adam	interacts with	Ana Google
+Juliette	interacts with	Charlie
+Marina	interacts with	Juliette
+Ana Social	interacts with	Kristian
+Harry	interacts with	Ana Social
+Simona	interacts with	Adam
+Charlie	interacts with	Marina
+Charlie	interacts with	Simona
+Charlie	interacts with	Bret
+Kristian	interacts with	Harry
+Kristian	interacts with	Simona
+Kristian	interacts with	Charlie
+Bret	interacts with	Simona
+Bret	interacts with	Kristian
